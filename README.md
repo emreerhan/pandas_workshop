@@ -1,12 +1,12 @@
 # Pandas Workshop
 
-##Time and Place
+## Time and Place
 
 Where: Room 7010, Library Research Commons, SFU Burnaby Campus
 
 When: Tuesday, January 16th, 2018 at 3:00 PM
 
-##Software Dependencies
+## Software Dependencies
 
 Please come with Anaconda for Python 3.6 installed
 
